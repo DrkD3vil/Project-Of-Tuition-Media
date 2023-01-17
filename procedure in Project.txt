@@ -20,5 +20,5 @@
 	cmd -[nodemon server] for start backend server
 7. mongose connection [ create dbConfig.js ] File
 8.add bootstrap cdn in css link in index.html
-
-	
+9. in frontend client folder terminal toast rendom massage and router dom connect server front to end
+	cmd -[ npm i react-router-dom , react-hot-toast ] 
