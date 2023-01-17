@@ -1,0 +1,24 @@
+1. in this project firstly initialize react app and create client folder in react app. 
+	cmd -[npx create-react-app client]
+2. in Client  Folder is a frontend view.
+	cmd -[ cd client ] -for enter client folder in terminal
+	cmd -[ npm start] -for view in localhost - You can now view client in the browser 	{  http://localhost:3000  }
+3. Change defualt view to customize app.js file in client/src/app.js 
+	default file delete and write after classname app [ <h1> devil </h1> ]
+	delete app.css logo.svg and unnessary file
+4. in root folder create server.js for backend. 
+	server.js 
+5. split terminal in root folder
+	cmd -[ npm init ] for initialize node server for backend
+	cmd -[npm i express] for creating server-side web applications faster and smarter
+	cmd -[npm i mongoose] for mongoDB database
+	cmd -[ npm i jsonwebtoken] for to identify an authenticated user
+	cmd -[npm i dotenv] for access environment variables in our application
+	cmd -[npm i andt] for design component
+	cmd -[npm install nodemon] for Nodemon assists by automatically restarting a server when you make changes to its code. 
+6. in server.js implement code then start nodemon server
+	cmd -[nodemon server] for start backend server
+7. mongose connection [ create dbConfig.js ] File
+8.add bootstrap cdn in css link in index.html
+
+	
