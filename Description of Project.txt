@@ -1,0 +1,37 @@
+
+
+Port City International University
+Excellence in Higher Education
+UGC & Govt. Approved University at Khulshi in Chattogram
+
+Project Proposal
+Title: Tuition Booking in Tuition-Media
+Description: 
+			A tuition appointment booking system is an online system that allows patient to easily book their appointment at a particular clinic related to their health issue. Such as Dental, Injury, Mental health, Muscle strain, Obesity, Arthritis, Asthma, cardiology etc.
+Requirements: 
+1.	Mongo DB
+2.	Express and Node js
+3.	React
+4.	HTML and CSS
+5.	JavaScript
+Environment: 
+1.	VS Code and Window Console 
+Outcome: 
+1.	Particular registration and login form for both teacher and student.
+2.	Search module has been implemented to search teachers.
+3.	This is an application from which user can easily manage teacher details and student details.
+4.	Admin user will be to track all the information of teacher and student.
+5.	Admin has rights to edit add, delete and update the records of patients, teacher and appointment.
+6.	Web interface has been provided for managing appointment for the patient in a particular hospital.
+Submitted By,
+	Team: 2
+•	Iftikharul Fahad
+		CSE 02207188
+•	Niloy Biswas
+		CSE 02207195
+•	Bijoy Dey
+CSE 02207205
+Supervision By,
+ 	Maliha Zahan Chowdury
+Department of Computer Science & Engineering
+Port City International University 
